@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hola, soy José Alarcón — Data Analyst</h1>
 
-<!--
-**JoseAlarconLu/JoseAlarconLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Analista de datos apasionado por convertir datos en decisiones. Python • SQL • Power BI • Looker • Tableau
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.linkedin.com/in/jose-alarcon-luna-b8b2662b8">LinkedIn</a> •
+<a href="https://github.com/JoseAlarconLu">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Lo que hago
+- Análisis de datos con **Python (pandas, numpy, scikit‑learn)** y **SQL**
+- BI con **Power BI / Looker / Tableau**
+- ETL y preparación de datos
+- Visualización de datos y storytelling
+
+### 🧩 Proyectos destacados
+
+
+### 🛠️ Tech Stack
+Python, SQL (BigQuery), Power BI, Looker, Tableau, Git, Jupyter, scikit‑learn, matplotlib, seaborn
+
+### 📫 Contacto
+- 📍 Málaga, España (movilidad nacional / Suiza)
+- ✉️ josealarconlu@gmail.com
