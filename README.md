@@ -1,28 +1,32 @@
-<h1 align="center">Hola, soy José Alarcón — Data Analyst</h1>
+# José Alarcón Luna | Junior Data Analyst
 
-<p align="center">
-Analista de datos apasionado por convertir datos en decisiones. Python • SQL • Power BI • Looker • Tableau
-</p>
+Junior Data Analyst focused on SQL, Python and Power BI, with a technical and analytical background.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/jose-alarcon-luna-b8b2662b8">LinkedIn</a> •
-<a href="https://github.com/JoseAlarconLu">GitHub</a>
-</p>
+I build data analysis projects centered on reporting, KPI tracking, dashboards and business insights.
 
----
+## Core Skills
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Excel
+- ETL
+- Data Cleaning
+- Dashboard Development
+- KPI Reporting
 
-### 🚀 Lo que hago
-- Análisis de datos con **Python (pandas, numpy, scikit‑learn)** y **SQL**
-- BI con **Power BI / Looker / Tableau**
-- ETL y preparación de datos
-- Visualización de datos y storytelling
+## Featured Projects
+- Sales & Invoice Analysis
+- Real Estate SQL Analysis
+- Public Health Dashboard
+- Sports Performance Data Analysis
 
-### 🧩 Proyectos destacados
+## Interests
+- Data Analytics
+- Business Intelligence
+- Reporting
+- Marketing and Commercial Analytics
 
-
-### 🛠️ Tech Stack
-Python, SQL (BigQuery), Power BI, Looker, Tableau, Git, Jupyter, scikit‑learn, matplotlib, seaborn
-
-### 📫 Contacto
-- 📍 Málaga, España (movilidad nacional / Suiza)
-- ✉️ josealarconlu@gmail.com
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/jose-alarcon-luna-data-analyst/]
+- Email: josealarconlu@gmail.com
+- Location: Málaga, Spain
